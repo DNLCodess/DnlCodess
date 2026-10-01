@@ -23,14 +23,14 @@ I build polished, high-end web and mobile products, backed by serious engineerin
 | Project | What it is | Highlights |
 |---|---|---|
 | **[Carmel Mart](https://carmelmart.store)** | Multi-vendor marketplace with five role-based portals | 110 API route handlers · Flutterwave + Paystack · QoreID KYC · Fast Link delivery + Mapbox · tier-gated digital goods · 29 Vitest files |
-| **Mannaly** | Cashless campus food-ordering & vendor settlement platform | Multi-tenant · wallet via transactional Postgres RPCs · Monnify/OPay payouts · HMAC-verified idempotent webhooks · realtime order tracking |
 | **Bookhushly** | Hospitality & services booking platform (hotels, events, logistics, security) | Unified Paystack + crypto payment layer · wallet · booking-lock conflict prevention · AI support assistant · VAPID push |
-| **OEMS** | Multi-tenant computer-based testing platform for universities | Credential-less student auth via server-minted sessions · three-layer authorization with Postgres RLS · ~325 Vitest tests |
 | **Atunluto** | Political party management & INEC-style election results platform | Five-tier RBAC enforced at server-action level · PU → LGA → State result collation · SHA-256 checksummed submissions with audit log · signed Cloudinary uploads · offline-capable PWA |
 | **TBM** | AI interior-design & renovation platform (client project, frontend) | Three portals with separate httpOnly-cookie auth · AI session state machine (8 states) with polling · runtime pricing + discount engine · idempotency-keyed Paystack checkout · 100+ endpoints wrapped in TanStack Query hooks |
 | **[Litway Picks](https://litwaypicks.com)** | Liberian e-commerce on **web + native mobile** (Next.js + Expo) | MTN MoMo checkout · webhook/poll race-safe settlement · biometric login · push notifications |
 | **Aiefashion** | Luxury e-commerce, US + Nigeria | Stripe + Paystack under one order state machine · live FX fallback chain · ISR/SSG strategy · full admin ops (refunds, analytics) |
+| **Mannaly** | Cashless campus food-ordering & vendor settlement platform | Multi-tenant · wallet via transactional Postgres RPCs · Monnify/OPay payouts · HMAC-verified idempotent webhooks · realtime order tracking |
 | **Farz Supplements** | Herbal e-commerce built for a 35+ audience | Paystack HMAC-SHA512 webhooks · stock via Postgres RPCs with compensating restore · per-state delivery fees |
+| **OEMS** | Multi-tenant computer-based testing platform for universities | Credential-less student auth via server-minted sessions · three-layer authorization with Postgres RLS · ~325 Vitest tests |
 | **[OTO for Senate](https://otoforsenate.ng)** | Live campaign site with a schema-driven CMS | Recursive schema form + deep-merge content · RLS with security-definer policy · ~63 test files |
 | **Ears For You** | AI-companion mental-health platform | Kafka-based crisis detection pipeline · AI kill switch + telemetry · resilient token refresh |
 | **PCU Digital Suite** | Course catalogue CMS, certificate verification, exam timetable builder | Hand-written PHP/MySQL API · built for shared cPanel hosting · 50-test timetable suite with .docx export |
