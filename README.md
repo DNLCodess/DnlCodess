@@ -1,24 +1,83 @@
-# 💫 About Me:
-My name is Aboderin Daniel and I bring your ideas to life with premium creativity and long lasting design influence on the end users <br>I'm currently working on growing my in 4th year as a Front-End Developer by incorporating beautiful and sleek 3d animations  into my websites. <br>
+# Hi, I'm Daniel Aboderin 👋
 
+**Senior Frontend & Mobile Engineer** · React · Next.js · React Native · TypeScript
+📍 Lagos, Nigeria · 🌍 Open to remote (contract, full-time, relocation)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dnlcodes.js) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dnlcodess) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dnlcodes@company.gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DNLCodess&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DNLCodess&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DNLCodess&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DNLCodess&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I build production web and mobile products where the hard part isn't the UI. It's payments, role-based access, real-time state, and data integrity. My work spans fintech, e-commerce, civic-tech, edtech, and health-tech, mostly for the Nigerian market, with live payment rails (Paystack, Flutterwave, Stripe, MTN MoMo, NOWPayments) and real users.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DNLCodess&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I do well
+
+- **Frontend architecture:** Next.js App Router (RSC, Server Actions, ISR/SSG), React 19, TanStack Query, Zustand, design systems on Tailwind CSS v4
+- **Mobile:** React Native / Expo (expo-router, NativeWind, secure session storage, biometric auth, push notifications)
+- **Payments & security:** HMAC-verified webhooks, idempotency keys, server-side price recalculation, Row-Level Security, multi-layer RBAC
+- **Real-time & performance:** Supabase Realtime, Firebase, Web Push (VAPID), PWAs, caching and rate limiting (Upstash Redis)
+- **Quality:** Vitest + Testing Library, Playwright, CI/CD on Vercel, accessibility-minded UI
+
+---
+
+## Selected work
+
+| Project | What it is | Highlights |
+|---|---|---|
+| **[Carmel Mart](https://carmelmart.store)** | Multi-vendor marketplace with five role-based portals | 110 API route handlers · Flutterwave + Paystack · QoreID KYC · Fast Link delivery + Mapbox · tier-gated digital goods · 29 Vitest files |
+| **Mannaly** | Cashless campus food-ordering & vendor settlement platform | Multi-tenant · wallet via transactional Postgres RPCs · Monnify/OPay payouts · HMAC-verified idempotent webhooks · realtime order tracking |
+| **Bookhushly** | Hospitality & services booking platform (hotels, events, logistics, security) | Unified Paystack + crypto payment layer · wallet · booking-lock conflict prevention · AI support assistant · VAPID push |
+| **OEMS** | Multi-tenant computer-based testing platform for universities | Credential-less student auth via server-minted sessions · three-layer authorization with Postgres RLS · ~325 Vitest tests |
+| **[Litway Picks](https://litwaypicks.com)** | Liberian e-commerce on **web + native mobile** (Next.js + Expo) | MTN MoMo checkout · webhook/poll race-safe settlement · biometric login · push notifications |
+| **Aiefashion** | Luxury e-commerce, US + Nigeria | Stripe + Paystack under one order state machine · live FX fallback chain · ISR/SSG strategy · full admin ops (refunds, analytics) |
+| **Farz Supplements** | Herbal e-commerce built for a 35+ audience | Paystack HMAC-SHA512 webhooks · stock via Postgres RPCs with compensating restore · per-state delivery fees |
+| **[OTO for Senate](https://otoforsenate.ng)** | Live campaign site with a schema-driven CMS | Recursive schema form + deep-merge content · RLS with security-definer policy · ~63 test files |
+| **Ears For You** | AI-companion mental-health platform | Kafka-based crisis detection pipeline · AI kill switch + telemetry · resilient token refresh |
+| **PCU Digital Suite** | Course catalogue CMS, certificate verification, exam timetable builder | Hand-written PHP/MySQL API · built for shared cPanel hosting · 50-test timetable suite with .docx export |
+
+Also built: Atunluto (party membership + INEC-style election results collation), Olanrewaju Okesooto campaign platform (donations + field results portal), Think – Winners Movement (hierarchical membership platform), Ebunly (three-portal gifting marketplace), Casanova (real-time social platform), and the TBM frontend (AI interior-design platform, consumed a client API).
+
+---
+
+## Tech stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Redis](https://img.shields.io/badge/Upstash_Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+
+**Payments & integrations:** Paystack · Flutterwave · Stripe · MTN MoMo · NOWPayments · Monnify · Twilio · Resend · Cloudinary
+
+---
+
+## Currently
+
+- Building for remote teams as a senior frontend / mobile engineer
+- Going deeper on performance, accessibility, and testing in production React apps
+
+---
+
+## Let's talk
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboderindaniel482@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dnlcodess)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Dnlcodes.js)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DNLCodess&show_icons=true&theme=dark&hide_border=true&count_private=true)
