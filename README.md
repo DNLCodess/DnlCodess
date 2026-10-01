@@ -3,12 +3,13 @@
 **Senior Frontend & Mobile Engineer** · React · Next.js · React Native · TypeScript
 📍 Lagos, Nigeria · 🌍 Open to remote (contract, full-time, relocation)
 
-I build production web and mobile products where the hard part isn't the UI. It's payments, role-based access, real-time state, and data integrity. My work spans fintech, e-commerce, civic-tech, edtech, and health-tech, mostly for the Nigerian market, with live payment rails (Paystack, Flutterwave, Stripe, MTN MoMo, NOWPayments) and real users.
+I build polished, high-end web and mobile products, backed by serious engineering: payments, role-based access, real-time state, and data integrity. My work spans fintech, e-commerce, civic-tech, edtech, and health-tech, mostly for the Nigerian market, with live payment rails (Paystack, Flutterwave, Stripe, MTN MoMo, NOWPayments) and real users.
 
 ---
 
 ## What I do well
 
+- **Design quality:** a keen eye for high-end, polished interfaces: custom Tailwind v4 token systems, dark mode, WCAG-minded accessibility, and motion with Framer Motion / GSAP. I've shipped Figma designs pixel-accurately across public sites and multi-role dashboards
 - **Frontend architecture:** Next.js App Router (RSC, Server Actions, ISR/SSG), React 19, TanStack Query, Zustand, design systems on Tailwind CSS v4
 - **Mobile:** React Native / Expo (expo-router, NativeWind, secure session storage, biometric auth, push notifications)
 - **Payments & security:** HMAC-verified webhooks, idempotency keys, server-side price recalculation, Row-Level Security, multi-layer RBAC
@@ -25,6 +26,8 @@ I build production web and mobile products where the hard part isn't the UI. It'
 | **Mannaly** | Cashless campus food-ordering & vendor settlement platform | Multi-tenant · wallet via transactional Postgres RPCs · Monnify/OPay payouts · HMAC-verified idempotent webhooks · realtime order tracking |
 | **Bookhushly** | Hospitality & services booking platform (hotels, events, logistics, security) | Unified Paystack + crypto payment layer · wallet · booking-lock conflict prevention · AI support assistant · VAPID push |
 | **OEMS** | Multi-tenant computer-based testing platform for universities | Credential-less student auth via server-minted sessions · three-layer authorization with Postgres RLS · ~325 Vitest tests |
+| **Atunluto** | Political party management & INEC-style election results platform | Five-tier RBAC enforced at server-action level · PU → LGA → State result collation · SHA-256 checksummed submissions with audit log · signed Cloudinary uploads · offline-capable PWA |
+| **TBM** | AI interior-design & renovation platform (client project, frontend) | Three portals with separate httpOnly-cookie auth · AI session state machine (8 states) with polling · runtime pricing + discount engine · idempotency-keyed Paystack checkout · 100+ endpoints wrapped in TanStack Query hooks |
 | **[Litway Picks](https://litwaypicks.com)** | Liberian e-commerce on **web + native mobile** (Next.js + Expo) | MTN MoMo checkout · webhook/poll race-safe settlement · biometric login · push notifications |
 | **Aiefashion** | Luxury e-commerce, US + Nigeria | Stripe + Paystack under one order state machine · live FX fallback chain · ISR/SSG strategy · full admin ops (refunds, analytics) |
 | **Farz Supplements** | Herbal e-commerce built for a 35+ audience | Paystack HMAC-SHA512 webhooks · stock via Postgres RPCs with compensating restore · per-state delivery fees |
@@ -32,7 +35,7 @@ I build production web and mobile products where the hard part isn't the UI. It'
 | **Ears For You** | AI-companion mental-health platform | Kafka-based crisis detection pipeline · AI kill switch + telemetry · resilient token refresh |
 | **PCU Digital Suite** | Course catalogue CMS, certificate verification, exam timetable builder | Hand-written PHP/MySQL API · built for shared cPanel hosting · 50-test timetable suite with .docx export |
 
-Also built: Atunluto (party membership + INEC-style election results collation), Olanrewaju Okesooto campaign platform (donations + field results portal), Think – Winners Movement (hierarchical membership platform), Ebunly (three-portal gifting marketplace), Casanova (real-time social platform), and the TBM frontend (AI interior-design platform, consumed a client API).
+Also built: Olanrewaju Okesooto campaign platform (donations + field results portal), Think – Winners Movement (hierarchical membership platform), Ebunly (three-portal gifting marketplace), Casanova (real-time social platform).
 
 ---
 
